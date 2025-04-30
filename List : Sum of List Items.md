@@ -15,7 +15,7 @@ print(sum(items))
 ```
 
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/37541b42-7acf-412b-92c9-c585b7f844df)
 
 ## Result
 Thus the program executed successfully.
